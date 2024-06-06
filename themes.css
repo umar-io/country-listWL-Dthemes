@@ -1,0 +1,7 @@
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: hsl(207, 26%, 17%);
+    --text-color: hsl(0, 0%, 100%);
+    --component-background: hsl(209, 23%, 22%);
+  }
+}
